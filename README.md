@@ -180,8 +180,3 @@ YYYY-MM-DD HH:MM:SS - FALL DETECTED
 AI × Robotics × Music 創作者  
 📧 arieswu001@gmail.com  
 
----
-
-## 📜 授權條款
-
-本專案採用 **MIT License**，可自由使用與修改，但需保留作者標註。
